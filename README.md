@@ -11,8 +11,10 @@
 
 ## Como executar
 
-1. git clone https://github.com/caiopacely/grafos-Wike-Vote.git
+1. clonar no colab o repositorio https://github.com/caiopacely/grafos-Wike-Vote.git
 
-2. Selecionar o notebook Untitled.ipynb 
+2. Selecionar o repositorio caiopacely/grafos-Wike-Vote
 
-3. Executar o notebook Untitled.ipynb
+3. Selecionar o notebook Untitled.ipynb 
+
+4. Executar o notebook Untitled.ipynb
