@@ -13,6 +13,6 @@
 
 1. git clone https://github.com/caiopacely/grafos-Wike-Vote.git
 
-2. pip install -r requirements.txt
+2. Selecionar o notebook Untitled.ipynb 
 
 3. Executar o notebook Untitled.ipynb
