@@ -5,7 +5,7 @@
 ## Arquivos do repositório
 
 - Untitled-1.ipynb → notebook de apresentação
-- Untitled.ipynb → notebook com a análise
+- Untitled.ipynb → notebook com a análise (ARQUIVO QUE DEVE SER RODADO)
 - Wiki-Vote.txt → dataset do SNAP utilizado
 - graph.jpeg → visualização do grafo
 
